@@ -1,0 +1,22 @@
+# Arquivos de Build e dependências
+/target/
+/build/
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# Arquivos de IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
